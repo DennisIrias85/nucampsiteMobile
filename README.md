@@ -10,6 +10,7 @@ Nucampsite Mobile is a mobile application built with React Native, designed to p
 - [Available Scripts](#available-scripts)
 - [Contributing](#contributing)
 - [License](#license)
+- [Git Ignore](#git-ignore)
 
 ## Features
 
